@@ -1,0 +1,1 @@
+# Just jotting down some important information about K8s and some fundamental concept it adopts.
